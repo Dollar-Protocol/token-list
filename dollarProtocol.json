@@ -106,6 +106,17 @@
         ]
     },
     {
+      "chainId": 1,
+      "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+      "symbol": "AMPL",
+      "name": "Ampleforth",
+      "decimals": 9,
+      "logoURI": "ipfs://Qmb9HESohE8zatTfYe6RbkdrTChnh8UgatVtWE3gmQai9s",
+      "tags": [
+        "Ampleforth"
+      ]
+  },
+    {
         "chainId": 1,
         "address": "0xd233D1f6FD11640081aBB8db125f722b5dc729dc",
         "symbol": "USD",
