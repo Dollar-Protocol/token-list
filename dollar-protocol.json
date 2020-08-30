@@ -1,0 +1,149 @@
+// ipfs://QmcKFTbrYD54H4UA85o7FmeB3aoXhubkqLdL593TsanHHv
+
+{
+  "name": "Dollar Protocol",
+  "logoURI": "ipfs://QmWAXs3oYZrTdCdiiZhXFLc7nniW9bpUD3LHGCDxghRte8",
+  "keywords": [
+    "stablecoin",
+    "dollarProtocol",
+    "seigniorage",
+    "dollars",
+    "usd",
+    "share"
+  ],
+  "tags": {
+    "dollar": {
+      "name": "Dollar",
+      "description": "A better elastic supply money protocol"
+    }
+  },
+  "timestamp": "2020-09-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "ipfs://QmRE4VfC6QVfDBgDUR5PsUStAEMuPMR1JnUPyQ9jCSrqt5",
+      "tags": [
+        "usdc"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "symbol": "COMP",
+      "name": "Compound",
+      "decimals": 18,
+      "logoURI": "ipfs://QmVoGc694Q9X5H2GCERcxDFcL7Kx1neDwPjHqjnUqgTKMe",
+      "tags": [
+        "compound"
+      ]
+    },
+    {
+        "chainId": 1,
+        "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+        "symbol": "YFI",
+        "name": "yearn.finance",
+        "decimals": 18,
+        "logoURI": "ipfs://QmcEhL94dKxt4f8bnNy6QnBf3E4EBE3jUHFR6m6N4Y5H1J",
+        "tags": [
+          "yearn"
+        ]
+    },
+    {
+        "chainId": 1,
+        "address": "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8",
+        "symbol": "YCRV",
+        "name": "Curve.fi yDAI/yUSDC/yUSDT/yTUSD",
+        "decimals": 18,
+        "logoURI": "ipfs://QmZ625tvq6vFKFTnHJ2NK41aPQ8uN3PNRtNJLT11KoVypD",
+        "tags": [
+          "CurveFi"
+        ]
+    },
+    {
+        "chainId": 1,
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "symbol": "USDT",
+        "name": "Tether ERC20",
+        "decimals": 6,
+        "logoURI": "ipfs://QmfQZYVZHezbZCveVasCV64XeXcGpShacRJ78U6CJxhgEv",
+        "tags": [
+          "Tether"
+        ]
+    },
+    {
+        "chainId": 1,
+        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "symbol": "DAI",
+        "name": "Dai",
+        "decimals": 18,
+        "logoURI": "ipfs://QmTjSzq6pfCiLeA8t2KyoWRbjGLwgndR2VqdRxX935w7Ld",
+        "tags": [
+          "Dai"
+        ]
+    },
+    {
+        "chainId": 1,
+        "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+        "symbol": "MKR",
+        "name": "Maker",
+        "decimals": 18,
+        "logoURI": "ipfs://QmYNQoVSJcwvDyQQDFxSpEXK9Na29VHBk7SfVL4qRnnyN4",
+        "tags": [
+          "Maker"
+        ]
+    },
+    {
+        "chainId": 1,
+        "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "symbol": "LINK",
+        "name": "ChainLink",
+        "decimals": 18,
+        "logoURI": "ipfs://QmbKt4oCM3ctBysLpz8YhDBARwKMVqwZ7pGeZxTb413Rca",
+        "tags": [
+          "ChainLink"
+        ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+      "symbol": "AMPL",
+      "name": "Ampleforth",
+      "decimals": 9,
+      "logoURI": "ipfs://Qmb9HESohE8zatTfYe6RbkdrTChnh8UgatVtWE3gmQai9s",
+      "tags": [
+        "Ampleforth"
+      ]
+  },
+    {
+        "chainId": 1,
+        "address": "0xd233D1f6FD11640081aBB8db125f722b5dc729dc",
+        "symbol": "USD",
+        "name": "Dollars",
+        "decimals": 9,
+        "logoURI": "ipfs://QmWAXs3oYZrTdCdiiZhXFLc7nniW9bpUD3LHGCDxghRte8",
+        "tags": [
+          "Dollars"
+        ]
+    },
+    {
+        "chainId": 1,
+        "address": "0x6b583cf4aba7bf9d6f8a51b3f1f7c7b2ce59bf15",
+        "symbol": "SHARE",
+        "name": "Seigniorage Shares",
+        "decimals": 9,
+        "logoURI": "ipfs://QmabtJ91euoo2WcmLSQCWt31j6k1CTRkAuQkpBUUAa7CiH",
+        "tags": [
+          "Shares"
+        ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
