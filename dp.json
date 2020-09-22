@@ -118,7 +118,7 @@
   },
     {
         "chainId": 1,
-        "address": "0xd233D1f6FD11640081aBB8db125f722b5dc729dc",
+        "address": "0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
         "symbol": "USD",
         "name": "Dollars",
         "decimals": 9,
@@ -129,7 +129,7 @@
     },
     {
         "chainId": 1,
-        "address": "0x6b583cf4aba7bf9d6f8a51b3f1f7c7b2ce59bf15",
+        "address": "0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
         "symbol": "SHARE",
         "name": "Seigniorage Shares",
         "decimals": 9,
