@@ -133,9 +133,31 @@
         "symbol": "SHARE",
         "name": "Seigniorage Shares",
         "decimals": 9,
-        "logoURI": "ipfs://QmabtJ91euoo2WcmLSQCWt31j6k1CTRkAuQkpBUUAa7CiH",
+        "logoURI": "ipfs://QmTgQtJsozYUVo5xVPkspFsEgTtFBEn5HNJNLMbhzcd1ZS",
         "tags": [
           "Shares"
+        ]
+    },
+    {
+        "chainId": 1,
+        "address": "0x9F378BD16932CE3388CC237133fd7a3eA13F0C81",
+        "symbol": "EUR",
+        "name": "Euros",
+        "decimals": 9,
+        "logoURI": "ipfs://QmfKo3cHhHy7KsrL4qqodMaWq9ENYZbhMQ5FP6Hgugj6tB",
+        "tags": [
+          "Euros"
+        ]
+    },
+    {
+        "chainId": 1,
+        "address": "0xB009F46793526fFf707BB994b8685fF08Ba34F5C",
+        "symbol": "EUROSHARE",
+        "name": "Seigniorage Euro-Shares",
+        "decimals": 9,
+        "logoURI": "ipfs://QmNwhJJM5an26QwKmvNvbW9MmrVvyHWbczfmRnV827gfUK",
+        "tags": [
+          "Euroshares"
         ]
     }
   ],
